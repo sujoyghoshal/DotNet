@@ -1,6 +1,6 @@
 # ReactDotNetCRUD
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) ![DotNet Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/.NET_Logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" height="200" width="200" /> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/.NET_Logo.png" alt=".NET Logo" height="200" width="200" />
 
 A full-stack CRUD application built with React and .NET. This project demonstrates how to create a seamless interface using React for the frontend and .NET for the backend. It covers basic CRUD operations—Create, Read, Update, and Delete—allowing users to interact with a database through a web application.
 

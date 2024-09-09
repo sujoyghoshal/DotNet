@@ -57,5 +57,5 @@ Feel free to open issues or submit pull requests if you have suggestions or impr
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or feedback, please reach out to [Sujoy Ghoshal sujoyghoshal.s@gmail.com](sujoyghoshal.vercel.app).
+For any questions or feedback, please reach out to [sujoyghoshal.s@gmail.com](sujoyghoshal.vercel.app).
 

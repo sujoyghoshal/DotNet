@@ -25,7 +25,7 @@ A full-stack CRUD application built with React and .NET. This project demonstrat
 ### Frontend
 1. Navigate to the frontend directory:
     ```bash
-    cd frontend
+    cd client
     ```
 2. Install dependencies:
     ```bash
@@ -39,7 +39,7 @@ A full-stack CRUD application built with React and .NET. This project demonstrat
 ### Backend
 1. Navigate to the backend directory:
     ```bash
-    cd backend
+    cd Dotnet
     ```
 2. Restore .NET dependencies:
     ```bash
